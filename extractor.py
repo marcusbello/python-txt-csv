@@ -56,4 +56,3 @@ with open('email_file.csv', mode='w') as email_file:
         email_writer = csv.writer(email_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         for i in finalopen:
             email_writer.writerow([str(emailnames(i)), i, str(domins(i)), str(asterisks(i))])
-    ###print(i + "," + str(emailnames(i)) + ","+ str(domins(i)) + ","+ str(asterisks(i)))
