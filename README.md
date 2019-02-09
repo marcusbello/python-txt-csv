@@ -12,6 +12,7 @@ This script will turn it to something like this
 thegit,thegit@github.com,github,*****t@github.com
 
 theman,theman@google.com,google.com,*****n@google.com
+
 thegirl,thegirl@yahoo.com,yahoo.com,*****rl@yahoo.com
 
 
