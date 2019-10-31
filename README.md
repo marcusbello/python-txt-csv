@@ -24,5 +24,3 @@ Name,Email,Domain,filterEmail
 Will appreciate any help, am still new on both python and github
 
 Thanks
-
-normanziggy12@gmail.com
