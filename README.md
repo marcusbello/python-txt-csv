@@ -20,7 +20,4 @@ So, basically what this script do is just to edit txt email files and save it to
 
 Name,Email,Domain,filterEmail
 
-
-Will appreciate any help, am still new on both python and github
-
-Thanks
+Thats all I think, maybe we will update later
